@@ -12,9 +12,15 @@
 ## String
 |  |
 | ------- |
+| [0131-palindrome-partitioning](https://github.com/aman70289/Leetcode-Solution/tree/master/0131-palindrome-partitioning) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/aman70289/Leetcode-Solution/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0131-palindrome-partitioning](https://github.com/aman70289/Leetcode-Solution/tree/master/0131-palindrome-partitioning) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/aman70289/Leetcode-Solution/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+## Backtracking
+|  |
+| ------- |
+| [0131-palindrome-partitioning](https://github.com/aman70289/Leetcode-Solution/tree/master/0131-palindrome-partitioning) |
 <!---LeetCode Topics End-->
