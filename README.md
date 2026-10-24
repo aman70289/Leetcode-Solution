@@ -6,10 +6,12 @@
 | ------- |
 | [0001-two-sum](https://github.com/aman70289/Leetcode-Solution/tree/master/0001-two-sum) |
 | [0063-unique-paths-ii](https://github.com/aman70289/Leetcode-Solution/tree/master/0063-unique-paths-ii) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/aman70289/Leetcode-Solution/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/aman70289/Leetcode-Solution/tree/master/0001-two-sum) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/aman70289/Leetcode-Solution/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## String
 |  |
 | ------- |
@@ -38,4 +40,12 @@
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/aman70289/Leetcode-Solution/tree/master/0063-unique-paths-ii) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/aman70289/Leetcode-Solution/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/aman70289/Leetcode-Solution/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
