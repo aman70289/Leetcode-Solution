@@ -32,6 +32,7 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/aman70289/Leetcode-Solution/tree/master/0062-unique-paths) |
+| [0633-sum-of-square-numbers](https://github.com/aman70289/Leetcode-Solution/tree/master/0633-sum-of-square-numbers) |
 ## Combinatorics
 |  |
 | ------- |
@@ -48,4 +49,12 @@
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/aman70289/Leetcode-Solution/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Two Pointers
+|  |
+| ------- |
+| [0633-sum-of-square-numbers](https://github.com/aman70289/Leetcode-Solution/tree/master/0633-sum-of-square-numbers) |
+## Binary Search
+|  |
+| ------- |
+| [0633-sum-of-square-numbers](https://github.com/aman70289/Leetcode-Solution/tree/master/0633-sum-of-square-numbers) |
 <!---LeetCode Topics End-->
