@@ -6,11 +6,13 @@
 | ------- |
 | [0001-two-sum](https://github.com/aman70289/Leetcode-Solution/tree/master/0001-two-sum) |
 | [0063-unique-paths-ii](https://github.com/aman70289/Leetcode-Solution/tree/master/0063-unique-paths-ii) |
+| [0930-binary-subarrays-with-sum](https://github.com/aman70289/Leetcode-Solution/tree/master/0930-binary-subarrays-with-sum) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/aman70289/Leetcode-Solution/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/aman70289/Leetcode-Solution/tree/master/0001-two-sum) |
+| [0930-binary-subarrays-with-sum](https://github.com/aman70289/Leetcode-Solution/tree/master/0930-binary-subarrays-with-sum) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/aman70289/Leetcode-Solution/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## String
 |  |
@@ -57,4 +59,12 @@
 |  |
 | ------- |
 | [0633-sum-of-square-numbers](https://github.com/aman70289/Leetcode-Solution/tree/master/0633-sum-of-square-numbers) |
+## Sliding Window
+|  |
+| ------- |
+| [0930-binary-subarrays-with-sum](https://github.com/aman70289/Leetcode-Solution/tree/master/0930-binary-subarrays-with-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0930-binary-subarrays-with-sum](https://github.com/aman70289/Leetcode-Solution/tree/master/0930-binary-subarrays-with-sum) |
 <!---LeetCode Topics End-->
