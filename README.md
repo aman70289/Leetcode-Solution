@@ -10,6 +10,7 @@
 | [0930-binary-subarrays-with-sum](https://github.com/aman70289/Leetcode-Solution/tree/master/0930-binary-subarrays-with-sum) |
 | [1094-car-pooling](https://github.com/aman70289/Leetcode-Solution/tree/master/1094-car-pooling) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/aman70289/Leetcode-Solution/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
+| [1991-find-the-middle-index-in-array](https://github.com/aman70289/Leetcode-Solution/tree/master/1991-find-the-middle-index-in-array) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/aman70289/Leetcode-Solution/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Hash Table
 |  |
@@ -75,6 +76,7 @@
 | [0930-binary-subarrays-with-sum](https://github.com/aman70289/Leetcode-Solution/tree/master/0930-binary-subarrays-with-sum) |
 | [1094-car-pooling](https://github.com/aman70289/Leetcode-Solution/tree/master/1094-car-pooling) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/aman70289/Leetcode-Solution/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
+| [1991-find-the-middle-index-in-array](https://github.com/aman70289/Leetcode-Solution/tree/master/1991-find-the-middle-index-in-array) |
 ## Sorting
 |  |
 | ------- |
