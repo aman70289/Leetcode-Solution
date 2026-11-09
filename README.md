@@ -14,6 +14,7 @@
 | [1732-find-the-highest-altitude](https://github.com/aman70289/Leetcode-Solution/tree/master/1732-find-the-highest-altitude) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/aman70289/Leetcode-Solution/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [1991-find-the-middle-index-in-array](https://github.com/aman70289/Leetcode-Solution/tree/master/1991-find-the-middle-index-in-array) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/aman70289/Leetcode-Solution/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/aman70289/Leetcode-Solution/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Hash Table
 |  |
@@ -28,6 +29,7 @@
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/aman70289/Leetcode-Solution/tree/master/0131-palindrome-partitioning) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/aman70289/Leetcode-Solution/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/aman70289/Leetcode-Solution/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -96,4 +98,5 @@
 |  |
 | ------- |
 | [1094-car-pooling](https://github.com/aman70289/Leetcode-Solution/tree/master/1094-car-pooling) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/aman70289/Leetcode-Solution/tree/master/2011-final-value-of-variable-after-performing-operations) |
 <!---LeetCode Topics End-->
